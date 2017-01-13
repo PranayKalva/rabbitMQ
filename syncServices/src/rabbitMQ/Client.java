@@ -1,4 +1,4 @@
-package syncServices;
+package rabbitMQ;
 
 public class Client {
 
